@@ -1,0 +1,5 @@
+CREATE TABLE peserta(
+peserta_id INT(11) PRIMARY KEY AUTO_INCREMENT,
+peserta_name VARCHAR(200),
+peserta_alamat DOUBLE
+)ENGINE=INNODB;
